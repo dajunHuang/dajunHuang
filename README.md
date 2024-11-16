@@ -13,14 +13,14 @@
 
 Thanks for checking out my Github! 
 
-I'm a second-year master's student at the University of Electronic  
-Science and Technology of China, major in Computer Science.
+I'm a second-year master's student at the University of
+Electronic Science and Technology of China, major in Computer Science.
 
 Recently, my research interests lies in Parallel Computing.
 
 You can find my website at https://dajunhuang.github.io/ (working).
 
-**Tools:**
+**Playthings:**
 
 <div align="center">
 <img height="50" src="https://www.kernel.org/theme/images/logos/tux.png" alt="Linux" title="Linux">
