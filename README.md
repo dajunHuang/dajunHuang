@@ -26,6 +26,8 @@ You can find my website at https://dajunhuang.github.io/ (working).
 <img height="50" src="https://www.kernel.org/theme/images/logos/tux.png" alt="Linux" title="Linux">
 <img height="50" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" title="VSCode">
 <img height="50" src="https://www.vim.org/images/vimlogo.svg" alt="Vim" title="Vim">
+<img height="50" src="Tall_2.png" alt="RISC-V" title="RISC-V">
+<img height="50" src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" title="QEMU">
 <img height="50" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C/C++" title="C/C++">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Nvidia_CUDA_Logo.jpg/330px-Nvidia_CUDA_Logo.jpg" alt="CUDA" title="CUDA">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/263px-Markdown-mark.svg.png" alt="MarkDown" title="MarkDown">
