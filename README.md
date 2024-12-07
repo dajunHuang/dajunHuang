@@ -30,9 +30,10 @@ You can find my website at https://dajunhuang.github.io/ (working).
 <img height="50" src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" title="QEMU">
 <img height="50" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C/C++" title="C/C++">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Nvidia_CUDA_Logo.jpg/330px-Nvidia_CUDA_Logo.jpg" alt="CUDA" title="CUDA">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/263px-Markdown-mark.svg.png" alt="MarkDown" title="MarkDown">
-<img height="40" src="https://git-scm.com/images/logo@2x.png" alt="git" title="git">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/50/PreSonus_Studio_One_Logo.png" alt="Studio One" title="Studio One">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" title="Photoshop">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" alt="Audition" title="Audition">
+<img height="50" src="blender.jpg" alt="blender" title="blender">
 </div>
 
 <!--
