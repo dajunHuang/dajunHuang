@@ -24,7 +24,6 @@ You can find my website at https://dajunhuang.github.io/ (working).
 
 <div align="center">
 <img height="50" src="https://www.kernel.org/theme/images/logos/tux.png" alt="Linux" title="Linux">
-<img height="50" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" title="VSCode">
 <img height="50" src="https://www.vim.org/images/vimlogo.svg" alt="Vim" title="Vim">
 <img height="50" src="Tall_2.png" alt="RISC-V" title="RISC-V">
 <img height="50" src="https://www.qemu.org/docs/master/_static/qemu_128x128.png" alt="QEMU" title="QEMU">
