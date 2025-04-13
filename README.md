@@ -30,8 +30,8 @@ You can find my website at https://dajunhuang.github.io/ (working).
 <img height="50" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C/C++" title="C/C++">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="CUDA" title="CUDA">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/50/PreSonus_Studio_One_Logo.png" alt="Studio One" title="Studio One">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" alt="Audition" title="Audition">
-<img height="50" src="blender.jpg" alt="blender" title="blender">
+<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" alt="Audition" title="Audition">
+<!-- <img height="50" src="blender.jpg" alt="blender" title="blender"> -->
 </div>
 
 <!--
