@@ -13,7 +13,7 @@
 
 Thanks for checking out my Github! 
 
-I'm a second-year master's student at the University of
+I'm a PhD student at the University of
 Electronic Science and Technology of China, major in Computer Science.
 
 Recently, my research interests lies in Parallel Computing.
